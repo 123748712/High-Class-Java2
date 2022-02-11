@@ -49,10 +49,11 @@ public class MemberIbatisTest {
 			} else {
 				System.out.println("insert 작업 실패.");
 			}
-			System.out.println("============================");
+			System.out.println("=============================");
 			
 		} catch (IOException e) {
 		} catch (SQLException e) {
 		}
 	}
 }
+
